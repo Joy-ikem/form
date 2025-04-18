@@ -8,6 +8,8 @@
   "dependencies": {
     "lottie-react": "^2.4.1",
     "react-hook-form": "^7.55.0",
-    "react-simple-typewriter": "^5.0.1"
+    "react-simple-typewriter": "^5.0.1",
+    "serve": "^14.2.4",
+    "vite": "^6.3.2"
   }
 }
