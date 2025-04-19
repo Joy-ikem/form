@@ -87,9 +87,12 @@ const Form = () => {
             value={mobile}
             onChange={(e) => setMobile(e.target.value)}
           />
-          <span type="submit" className='bg-blue-900 text-white rounded h-10 hover:bg-gray-900 flex justify-center items-center w-60'>
-            Sign In
-          </span>
+          <button
+              type="submit"
+              className="appearance-none border-none bg-blue-900 text-white rounded h-10 hover:bg-gray-900 flex justify-center items-center w-60">
+               Sign In
+          </button>
+
         </form>
       </div>
     </section>
