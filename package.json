@@ -27,6 +27,34 @@
     "@vitejs/plugin-react": "^4.4.1",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
+<<<<<<< HEAD
     "tailwindcss": "^4.1.4"
   }
+=======
+    "tailwindcss": "^4.1.4",
+    "vite": "^6.3.2"
+  },
+  "dependencies": {
+    "lottie-react": "^2.4.1",
+    "lottie-web": "^5.12.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-hook-form": "^7.55.0",
+    "react-simple-typewriter": "^5.0.1",
+    "serve": "^14.2.4"
+  },
+  "name": "davenempire",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+>>>>>>> 7d11586bbbabc2ee67183517e5f2448b95e4809d
 }
